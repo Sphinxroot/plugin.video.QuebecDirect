@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings>
+    <string id="30000">★★★★★[COLOR blue]Quebec[/COLOR]★★★★★</string>
+    <string id="30001">TVA</string>
+    <string id="30002">LCN</string>
+    <string id="30003">RDI</string>
+    <string id="30004">Tele-Quebec</string>
+    <string id="30005">Tele-V</string>
+    <string id="30006">ICI Tele Montreal</string>
+    <string id="30007">ICI Tele Est-Quebec</string>
+    <string id="30008">ICI Tele Estrie</string>
+    <string id="30009">ICI Tele Mauricie</string>
+    <string id="30010">ICI Tele Ottawa-Gatineau</string>
+    <string id="30011">ICI Tele Quebec</string>
+	<string id="30012">ICI Tele Saguenay</string>
+	<string id="30013">ICI TV</string>
+	<string id="30014">Assnat</string>
+	<string id="30015">Canal Savoir</string>
+	<string id="30016">Cpac</string>
+	<string id="30017">EMCI TV</string>
+	<string id="30018">TCM-TV</string>
+	<string id="30019">Télé-Mag Québec (YT)</string>
+	<string id="30020">TVC9 (YT)</string>
+	<string id="30021">Yoppa</string>
+</strings>
