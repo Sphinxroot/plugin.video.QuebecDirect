@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.QuebecDirect"
+       name="[COLOR red]•QuebecDirect•[/COLOR]"
+       version="1.0.2"
+       provider-name="[COLOR blue]Sphinxroot[/COLOR]">
+	<requires>
+		<import addon="xbmc.python" version="2.25.0"/>
+		<import addon="plugin.video.youtube" optional="true"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+  <extension point="xbmc.addon.metadata">  
+  <summary lang="en">La Tv Du Quebec En Direct</summary>
+    <description lang="en">Ecoutez Vos Stations Du Quebec En Direct
+	</description>
+    <platform>all</platform>
+	<language>en</language>
+	<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+    <website></website>
+    <email></email>
+    <source>https://github.com/Sphinxroot</source>
+	</extension>
+</addon>
